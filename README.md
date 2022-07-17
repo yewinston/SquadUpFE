@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## SquadUp
 
-You can use the [editor on GitHub](https://github.com/yewinston/SquadUp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+SquadUp is an Android application that simplifies finding a **drop-in activity** in _your_ local area.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+- Find local drop-in activities directly from Google Maps
+- Talk with all participants in chatrooms
+- Automatically check-in to drop-in activities that you sign up for
+- Profile system 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Source Code
 
-```markdown
-Syntax highlighted code block
+SquadUp is an open-source project and is accessible on [GitHub](https://github.com/nguyenmar/CMPT362_Project).
 
-# Header 1
-## Header 2
-### Header 3
+## About
 
-- Bulleted
-- List
+SquadUp is a final project for SFU's Summer 2022 CMPT362 Mobile Applications Programming and Design course.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yewinston/SquadUp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Team Ancient Ones
+- [Jacob Dauz](https://github.com/jdauz)
+- [Marian Nguyen](https://github.com/nguyenmar)
+- [Winston Ye](https://github.com/yewinston)
+- [Hans Podzun](https://github.com/hpodzun)
+- [VJ Bakhshi](https://github.com/titanvj)
