@@ -1,6 +1,5 @@
 ## SquadUp
-
-SquadUp is an Android application that simplifies finding a **drop-in activity** in _your_ local area.
+is an Android application that simplifies finding a **drop-in activity** in _your_ local area.
 
 ### Features
 
